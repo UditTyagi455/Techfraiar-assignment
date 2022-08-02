@@ -1,0 +1,10 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main-div {
+    background-color: rgb(84, 61, 224);
+    height: 100vh;
+    width: 100%;
+}
